@@ -4,7 +4,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**🔗 Live Demo:** [portfolio-blush-sigma-22.vercel.app](https://portfolio-blush-sigma-22.vercel.app)
+**🔗 Live Demo:** [bhargavsinha.vercel.app](https://bhargavsinha.vercel.app)
 
 ## 📖 Overview
 
@@ -59,7 +59,7 @@ npm start
 **Bhargav Sinha** — Software Engineer · Full-Stack MERN Developer
 
 - GitHub: [@Bhargav9334](https://github.com/Bhargav9334)
-- Portfolio: [portfolio-blush-sigma-22.vercel.app](https://portfolio-blush-sigma-22.vercel.app)
+- Portfolio: [bhargavsinha.vercel.app](https://bhargavsinha.vercel.app)
 - Email: bhargavsinha93@gmail.com
 
 If you found this project useful, consider giving it a ⭐
